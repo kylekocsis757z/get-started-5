@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.microsoft.com/en-us/p/office-365-personal/cfq7ttc0k5bf?activetab=pivot%3aoverviewtabl");
+header("Location: https://www.telluridesports.com");
 die();
 ?>
