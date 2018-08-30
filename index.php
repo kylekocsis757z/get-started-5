@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.telluridesports.com");
+header("Location: https://cottonstitch.us/nor/index.html");
 die();
 ?>
