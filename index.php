@@ -1,4 +1,4 @@
 <?php
-header("Location: https://yoursinterior.us");
+header("Location: https://www.mcafee.com/consumer/en-us/store/m0/catalog/mtp_521/mcafee-total-protection.html");
 die();
 ?>
